@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="API Testing Suite">
+    <test name="Test API">
+        <classes>
+            <class name="com.it_academy.janna.rest_api_test.OnlinerSushiServiceTest"/>
+        </classes>
+    </test>
+</suite>
